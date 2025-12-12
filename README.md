@@ -475,31 +475,3 @@ https://github-profile-trophy.vercel.app/?username=ryo-ma&column=3&margin-w=15&m
 <p align="center">
   <img width="360" src="https://user-images.githubusercontent.com/6661165/93668677-ff309a80-fac8-11ea-8ae3-3e3e8adbef39.png">
 </p>
-
-## Transparent background
-
-You can turn the background transparent.\
-`Available value: boolean type (true or false)`\
-`Default: no-bg=false`
-
-```
-https://github-profile-trophy.vercel.app/?username=ryo-ma&no-bg=true
-```
-
-<p align="center">
-  <img width="969" src="https://github.com/user-attachments/assets/32d3b63b-7845-42cb-b71c-31abaa673bcb">
-</p>
-
-## Hide frames
-
-You can hide the frames around the trophies.\
-`Available value: boolean type (true or false)`\
-`Default: no-frame=false`
-
-```
-https://github-profile-trophy.vercel.app/?username=ryo-ma&no-frame=true
-```
-
-<p align="center">
-  <img width="936" src="https://github.com/user-attachments/assets/54de15a3-d907-4a50-8117-170aae74d1cd">
-</p>
